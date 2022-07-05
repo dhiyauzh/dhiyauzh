@@ -1,10 +1,13 @@
-### Hi there 👋, my name is Dhiya Uzh Zharief
-#### Business Intelligence and Web Development Enthusiast
 ![Business Intelligence and Web Development Enthusiast](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+# Hi there 👋, my name is Dhiya Uzh Zharief
 I am Dhiya from Indonesia. Currently in my third year of majoring in Digital Business at Padjadjaran University. I actively develop myself through campus organizations and participate in projects with the Padjadjaran University communities. I enjoy exploring information to enrich my knowledge and gain valuable insights.
 
-Skills: Agile Framework / Design Thinking / Web Development / Tableau / Knime / SQL / Python
+## Skills and Experience
+* 💡Agile Framework, Design Thinking
+* 💻 Web Development, Tableau, Knime
+* :atom: Python
+* 🐬 MySQL
 
 - 🔭 I’m currently working on Faculty of Economic and Business, Padjadjaran University's official website and teaching assistant of Business Intelligence course in my program. 
 
