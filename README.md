@@ -5,7 +5,7 @@ I am Dhiya from Indonesia. Currently in my third year of majoring in Digital Bus
 
 ## Skills and Experience
 * 💡Agile Framework, Design Thinking
-* 💻 Web Development, Tableau, Knime
+* 💻 Web Development, Tableau, Knime, Figma, Miro, Trello
 * :atom: Python
 * 🐬 MySQL
 
