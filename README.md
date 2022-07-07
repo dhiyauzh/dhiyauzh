@@ -5,7 +5,7 @@ I am Dhiya from Indonesia. Currently in my third year of majoring in Digital Bus
 * 💡Agile Framework, Design Thinking
 * 💻 Web Development, Tableau, Knime, Figma, Miro, Trello
 * :atom: Python
-* 🐬 MySQL
+* 💾 MySQL
 
 - 🔭 I’m currently working on Faculty of Economic and Business, Padjadjaran University's official website and teaching assistant of Business Intelligence course in my program. 
 
